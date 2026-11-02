@@ -134,7 +134,7 @@ If you use this code, please cite the article:
 ```bibtex
 @misc{ali2026unpriced,
   title  = {The Unpriced Cost of Collaborative Intelligence in 5G-Advanced: A 3GPP Release 18 and 19 Perspective},
-  author = {Ali, Sardar Jaffar and Ali, Sardar Kazim and Raza, Syed Muhammad and Lee, Jong Taek and Kim, Jeonggeun and Tak, Byungchul},
+  author = {Ali, Sardar Jaffar and Ali, Sardar Kazim and Raza, Syed Muhammad and Kim, Jeonggeun and Tak, Byungchul},
   year   = {2026},
   note   = {Manuscript under review}
 }
